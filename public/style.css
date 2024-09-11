@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;    
+}
+
+.hero {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20240722/pngtree-tea-pot-serving-tea-in-four-plastic-cups-at-a-roadside-photo-image_16091478.jpg);
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hero .title {
+    color: white;
+    font-size: 36px;
+}
+
+.hero .sub-title {
+    color: rgb(223, 223, 223);
+    font-size: 18px;
+}
+
+.btn-cta{
+    background-color: rgb(255, 187, 0);
+    color: white;
+}
