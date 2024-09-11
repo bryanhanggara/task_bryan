@@ -11,6 +11,7 @@ Untuk menjalankan project laravel 11 warungteh
 
 1. Import Database yang tersedia
 2. Sesuaikan nama db pada file .env
-3. jalankan php artisan serve
-4. buka website dan menu pesanan lalu buat pesanan
+3. jalankan php artisan key:generate
+4. jalankan php artisan serve
+5. buka website dan menu pesanan lalu buat pesanan
 
